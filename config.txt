@@ -1,0 +1,17 @@
+Archivos=daido-tra.dat
+Semillas=20887601 8876012 88760120 87601208 76012088
+Algoritmos=EvM EvBLX ED
+Dimension=10
+NumVariables=5
+TamPoblacion=50
+MaxIndividuos=10000
+ProbCruce=70
+ProbMutacion=1
+K=2
+KPeores=4
+NumPadres=2
+NumElites=1
+Alfa=50
+KIndObj=3
+ProbCambio=50
+NumDecimales=4
